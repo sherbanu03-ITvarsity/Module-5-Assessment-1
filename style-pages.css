@@ -46,7 +46,7 @@ p.intro {
     z-index: 500;
     display: inline-block;
     width: 100%;
-    height: 50px;
+    height: 51px;
     
     box-shadow: inset 0px 1px 0px 0px #54a3f7;
     background: linear-gradient(#007dc1, #0061a7);
